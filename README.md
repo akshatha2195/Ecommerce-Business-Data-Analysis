@@ -5,9 +5,13 @@ This project uses Python's `Faker` library to generate a synthetic dataset simul
 as possible.
 
 #### Key Features of the Dataset
-- **Customer Demographics**: Gender, age group, and location.
-- **Transaction Details**: Product categories, discount campaigns, payment methods.
-- **Sales Metrics**: Gross amount, net amount, discount amount.
+1.**Business Problems to Address:
+2.**Which age group contributes to the most purchases?
+3.**Which time of the year are the sales highest and lowest?
+4.**Which product category performs the most?
+5.**Does Gender have a positive correlation to purchases?
+6.**Does location and purchase have a positive correlation?
+7.**Which age group is most responsive to discount?
 
 #### Python Libraries used
 - Faker
